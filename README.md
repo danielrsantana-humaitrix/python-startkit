@@ -4,11 +4,11 @@ A simple Python Library to learn about this technology
 
 # Before Starting
 
-1. Install GIT [here][https://git-scm.com/book/en/v2/Getting-Started-Installing-Git]
+1. Install GIT [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
-2. Install Python [here][https://www.python.org/downloads/] and [pip][https://pip.pypa.io/en/stable/cli/pip_install/]
+2. Install Python [here](https://www.python.org/downloads/) and [pip](https://pip.pypa.io/en/stable/cli/pip_install/)
 
-3. Learn the basics about Git [here][https://docs.github.com/en/get-started/using-git/about-git]
+3. Learn the basics about Git [here](https://docs.github.com/en/get-started/using-git/about-git)
 
 # Setup
 
@@ -24,9 +24,12 @@ A simple Python Library to learn about this technology
   SERVER_LOG_LEVEL=info
 ```
 
-4. Run the app
+4. Install the packages & Run the app
 
 ```bash
+  cd python-startkit
+  pip install requirements.txt
+  cd src
   python main.py
 ```
 
